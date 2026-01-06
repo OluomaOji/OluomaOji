@@ -1,190 +1,24 @@
+# 💫 About Me:
+👋 Hi, I’m Phylis Oluoma Oji<br>I am a Computer Vision Engineer with 5+ years of experience designing and deploying production-grade perception systems that transform visual data into intelligent action.  I Specialize in building end-to-end machine learning pipelines that bridge classical computer vision techniques with modern deep learning architectures. I have a proven track record of developing multi-modal AI systems, achieving measurable performance improvements, and implementing MLOps best practices for scalable deployment. Committed to building vision systems that enhance human dignity, independence, and autonomy through ethical AI and real-world impact.<br><br>What drives me: I don't just train models, I build complete systems that work reliably in the real world. To build vision models that serve as eyes, hands, and bridges supporting human dignity, independence, and autonomy. Every system I design is guided by real-world constraints, ethical responsibility, and measurable impact.<br><br><br>Core Capabilities<br>Computer Vision<br>Object Detection • Image Classification • Semantic & Instance Segmentation • Feature Extraction • Image Processing • Camera Calibration<br><br>Deep Learning & Frameworks<br>PyTorch • TensorFlow • OpenCV • CNNs • Transfer Learning • Model Optimization<br><br>Robotics & Perception<br>ROS2 • Nav2 • MoveIt2 • Visual SLAM • TF Transforms • Vision-Guided Manipulation • Sensor Fusion<br><br>MLOps & Deployment<br>MLflow • Docker • Model Serving • Edge Deployment • CI/CD for ML<br><br>What Sets My Work Apart<br>✅ Production Experience: 5+ years shipping CV systems that operate reliably in real-world conditions<br>✅ Hybrid Approaches: Pragmatic blending of classical CV and deep learning for optimal results<br>✅ Robotics Integration: Unique ability to connect vision with motion planning, navigation, and manipulation<br>✅ Problem-Solver First: Focus on delivering working solutions, not just impressive benchmarks<br><br>Technical Stack<br>Languages: Python (Expert) • C++ (Intermediate)<br>CV & Deep Learning: OpenCV • PyTorch • TensorFlow • scikit-learn<br>Robotics: ROS2 • Nav2 • MoveIt2 • Gazebo<br>MLOps: MLflow • DVC • Docker • Git/GitHub<br>Deployment: Model Optimization • Edge Deployment • Real-Time Systems<br><br>Professional Background<br>Computer Vision Engineer | ML Engineer | Vibra (2025 - present) (Contract)<br>Building multi-modal AI for intelligent sports performance analysis<br><br>Data Science Consultant | Amdari (January 2025 -  August 2025) (Contract)<br>Delivered end-to-end machine learning solutions across multiple domains, improving business outcomes through predictive modeling and intelligent automation.<br><br>Robotics Perception Training | The Construct (2025)<br>Intensive hands-on training in robotics perception, autonomous navigation, and vision-guided manipulation.<br><br>→ View Full CV<br><br>Current Focus<br>I'm actively seeking opportunities in Computer Vision Engineering and Perception Engineering roles where I can:<br>Design and deploy production-grade vision systems<br>Bridge computer vision with robotics and autonomous systems<br>Build perception pipelines that enable intelligent action<br>Work on challenging real-world problems with measurable impact<br>Interested in working together? Let's connect:<br>📧 oluomaoji@gmail.com | 💼 https://www.linkedin.com/in/oluomaoji/ <br>
 
-# Computer Vision & Perception Engineering Portfolio
 
-**Oluoma Phylis Oji** | Computer Vision Engineer  
-📧 oluomaoji@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/oluomaoji/) | 🔗 [Full CV](link-to-your-cv) | youtube_link
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oluomaoji/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@OluomaOji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oluomaoji@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Oluomaoji&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Oluomaoji&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluomaoji&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Oluomaoji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-I'm a Computer Vision Engineer with 5+ years of experience building **production-grade perception systems** that bridge the gap between pixels and intelligent action. My work spans the full spectrum: from classical computer vision techniques to modern deep learning architectures, and from standalone vision systems to integrated robotics perception pipelines.
-
-**What drives me:** I don't just train models—I build complete systems that work reliably in the real world. Whether it's detecting crop diseases in variable lighting, enabling robots to grasp objects with precision, or designing perception stacks for autonomous navigation, I focus on **end-to-end solutions that solve real problems**.
-
-### My Technical Philosophy
-
-- **Pragmatic Problem Solving:** I choose the right tool for the job—classical CV when appropriate, deep learning when it adds value, and hybrid approaches when they deliver the best results
-- **Production-First Mindset:** Models are only valuable when they're deployed, maintained, and delivering impact
-- **Robotics Integration:** Unique ability to connect vision systems with motion planning, navigation, and manipulation in ROS2 ecosystems
-
----
-
-## Core Capabilities
-
-**Computer Vision**  
-Object Detection • Image Classification • Semantic & Instance Segmentation • Feature Extraction • Image Processing • Camera Calibration
-
-**Deep Learning & Frameworks**  
-PyTorch • TensorFlow • OpenCV • CNNs • Transfer Learning • Model Optimization
-
-**Robotics & Perception**  
-ROS2 • Nav2 • MoveIt2 • Visual SLAM • TF Transforms • Vision-Guided Manipulation • Sensor Fusion
-
-**MLOps & Deployment**  
-MLflow • Docker • Model Serving • Edge Deployment • CI/CD for ML
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Oluomaoji&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Oluomaoji&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Featured Projects
-
-### 🌱 [End-to-End Crop Disease Detection System](./potato-disease-detection/)
-**Production-Ready Vision Pipeline | PyTorch • OpenCV • Deep Learning**
-
-Built a complete computer vision system for agricultural disease detection achieving **>90% classification accuracy** on real-world potato leaf images.
-
-**Key Achievements:**
-- Designed full ML lifecycle: data ingestion → preprocessing & augmentation → CNN training → evaluation → production inference
-- Solved severe class imbalance through intelligent augmentation strategies, improving minority-class recall by 35%
-- Delivered deployment-ready pipeline optimized for variable field conditions (lighting, angles, occlusion)
-- Implemented comprehensive evaluation framework with precision-recall analysis and confusion matrices
-
-**Why This Matters:** Demonstrates ability to build complete, production-grade pipelines that handle real-world data challenges—not just Kaggle-perfect datasets.
-
-[→ View Technical Details](./potato-disease-detection/)
-
----
-
-### 🤖 [Vision-Guided Pick & Place System](./ros2-pick-and-place-vision/)
-**Robotic Manipulation | ROS2 • MoveIt2 • OpenCV • Gazebo**
-
-Developed end-to-end perception and manipulation system enabling Franka Emika Panda robot to autonomously detect, grasp, and sort objects.
-
-**Key Achievements:**
-- Implemented robust classical CV pipeline (color segmentation, contour detection) for object localization
-- Engineered coordinate transformation system using TF frames to convert 2D detections → accurate 3D grasp poses
-- Integrated perception with MoveIt2 collision-aware motion planning, achieving 95%+ pick success rate
-- Built complete perception-to-action loop with sub-200ms total latency
-
-**Why This Matters:** Shows ability to bridge vision and robotics—taking detections from images all the way to physical robot actions.
-
-[→ View Technical Details](./ros2-pick-and-place-vision/)
-
----
-
-### 📦 [Autonomous Warehouse Robot](./autonomous-warehouse-robot/) *(In Progress)*
-**Mobile Manipulation | ROS2 • Nav2 • SLAM • MoveIt2 • Computer Vision**
-
-Building autonomous mobile manipulator capable of warehouse navigation and shelf-based pick-and-place operations—a complete robotics perception challenge.
-
-**Technical Scope:**
-- Designing multi-modal perception pipeline: object detection + 6-DOF pose estimation for manipulation
-- Integrating Nav2 autonomous navigation with SLAM-based localization in dynamic environments
-- Architecting complete perception-to-action workflow: vision → localization → path planning → manipulation → control
-- Building modular system with clean separation of concerns for testing and deployment
-
-**Why This Matters:** Demonstrates system-level thinking and ability to architect complex perception systems that integrate multiple robotics subsystems.
-
-[→ View Technical Details](./autonomous-warehouse-robot/)
-
----
-
-### 🚗 [Autonomous Vehicle Perception Stack](./autonomous-vehicle-perception/) *(System Design)*
-**Multi-Task Perception | Computer Vision • Deep Learning • Architecture**
-
-Designed modular perception architecture for autonomous driving scenarios with emphasis on robustness and real-world reliability.
-
-**Design Highlights:**
-- Multi-task perception: object detection, lane detection, semantic segmentation, multi-object tracking
-- Robustness considerations: lighting variations, scale changes, occlusion handling, edge case management
-- Efficient sensor fusion strategy and real-time processing constraints
-- Scalable architecture suitable for deployment on autonomous vehicle compute platforms
-
-**Why This Matters:** Shows ability to think at the systems level—designing architectures that balance performance, robustness, and computational constraints.
-
-[→ View Design Details](./autonomous-vehicle-perception/)
-
----
-
-## What Sets My Work Apart
-
-✅ **End-to-End Ownership:** I don't just fine-tune models—I build complete systems from data collection through deployment  
-✅ **Production Experience:** 5+ years shipping CV systems that operate reliably in real-world conditions  
-✅ **Hybrid Approaches:** Pragmatic blending of classical CV and deep learning for optimal results  
-✅ **Robotics Integration:** Unique ability to connect vision with motion planning, navigation, and manipulation  
-✅ **Problem-Solver First:** Focus on delivering working solutions, not just impressive benchmarks
-
----
-
-## Technical Stack
-
-**Languages:** Python (Expert) • C++ (Intermediate)  
-**CV & Deep Learning:** OpenCV • PyTorch • TensorFlow • scikit-learn  
-**Robotics:** ROS2 • Nav2 • MoveIt2 • Gazebo  
-**MLOps:** MLflow • DVC • Docker • Git/GitHub  
-**Deployment:** Model Optimization • Edge Deployment • Real-Time Systems
-
----
-
-## Professional Background
-
-**Computer Vision Engineer** | Byteworks Technology (2019–2024)  
-Built and deployed production computer vision systems spanning object detection, classification, and image processing applications.
-
-**Machine Learning Engineer** | Vibra Technology (2024–Present)  
-Developing and deploying ML models with emphasis on computer vision applications and production pipelines.
-
-**Robotics Perception Training** | The Construct (2025)  
-Intensive hands-on training in robotics perception, autonomous navigation, and vision-guided manipulation.
-
-[→ View Full CV](link-to-your-cv)
-
----
-
-## Current Focus
-
-I'm actively seeking opportunities in **Computer Vision Engineering** and **Perception Engineering** roles where I can:
-- Design and deploy production-grade vision systems
-- Bridge computer vision with robotics and autonomous systems
-- Build perception pipelines that enable intelligent action
-- Work on challenging real-world problems with measurable impact
-
-**Interested in working together?** Let's connect:  
-📧 oluomaoji@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/oluomaoji/)
-
----
-
-## Repository Structure
-
-```
-computer-vision-perception-portfolio/
-│
-├── README.md                           ← You are here
-│
-├── potato-disease-detection/           ← End-to-end ML pipeline
-│   ├── README.md
-│   ├── src/
-│   ├── notebooks/
-│   └── results/
-│
-├── ros2-pick-and-place-vision/         ← Vision-guided manipulation
-│   ├── README.md
-│   ├── src/
-│   ├── launch/
-│   └── demo/
-│
-├── autonomous-warehouse-robot/         ← Mobile manipulation system
-│   ├── README.md
-│   ├── src/
-│   ├── config/
-│   └── architecture/
-│
-└── autonomous-vehicle-perception/      ← AV perception design
-    ├── README.md
-    ├── design-docs/
-    └── architecture/
-```
-
----
-
-*This portfolio showcases production-oriented computer vision and perception engineering work. Each project demonstrates end-to-end thinking, technical depth, and real-world problem-solving capabilities.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
