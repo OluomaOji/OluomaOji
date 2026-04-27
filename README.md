@@ -1,24 +1,108 @@
-# 💫 About Me:
-👋 Hi, I’m Phylis Oluoma Oji<br>I am a Computer Vision Engineer with 5+ years of experience designing and deploying production-grade perception systems that transform visual data into intelligent action.  I Specialize in building end-to-end machine learning pipelines that bridge classical computer vision techniques with modern deep learning architectures. I have a proven track record of developing multi-modal AI systems, achieving measurable performance improvements, and implementing MLOps best practices for scalable deployment. Committed to building vision systems that enhance human dignity, independence, and autonomy through ethical AI and real-world impact.<br><br>What drives me: I don't just train models, I build complete systems that work reliably in the real world. To build vision models that serve as eyes, hands, and bridges supporting human dignity, independence, and autonomy. Every system I design is guided by real-world constraints, ethical responsibility, and measurable impact.<br><br><br>Core Capabilities<br>Computer Vision<br>Object Detection • Image Classification • Semantic & Instance Segmentation • Feature Extraction • Image Processing • Camera Calibration<br><br>Deep Learning & Frameworks<br>PyTorch • TensorFlow • OpenCV • CNNs • Transfer Learning • Model Optimization<br><br>Robotics & Perception<br>ROS2 • Nav2 • MoveIt2 • Visual SLAM • TF Transforms • Vision-Guided Manipulation • Sensor Fusion<br><br>MLOps & Deployment<br>MLflow • Docker • Model Serving • Edge Deployment • CI/CD for ML<br><br>What Sets My Work Apart<br>✅ Production Experience: 5+ years shipping CV systems that operate reliably in real-world conditions<br>✅ Hybrid Approaches: Pragmatic blending of classical CV and deep learning for optimal results<br>✅ Robotics Integration: Unique ability to connect vision with motion planning, navigation, and manipulation<br>✅ Problem-Solver First: Focus on delivering working solutions, not just impressive benchmarks<br><br>Technical Stack<br>Languages: Python (Expert) • C++ (Intermediate)<br>CV & Deep Learning: OpenCV • PyTorch • TensorFlow • scikit-learn<br>Robotics: ROS2 • Nav2 • MoveIt2 • Gazebo<br>MLOps: MLflow • DVC • Docker • Git/GitHub<br>Deployment: Model Optimization • Edge Deployment • Real-Time Systems<br><br>Professional Background<br>Computer Vision Engineer | ML Engineer | Vibra (2025 - present) (Contract)<br>Building multi-modal AI for intelligent sports performance analysis<br><br>Data Science Consultant | Amdari (January 2025 -  August 2025) (Contract)<br>Delivered end-to-end machine learning solutions across multiple domains, improving business outcomes through predictive modeling and intelligent automation.<br><br>Robotics Perception Training | The Construct (2025)<br>Intensive hands-on training in robotics perception, autonomous navigation, and vision-guided manipulation.<br><br>→ View Full CV<br><br>Current Focus<br>I'm actively seeking opportunities in Computer Vision Engineering and Perception Engineering roles where I can:<br>Design and deploy production-grade vision systems<br>Bridge computer vision with robotics and autonomous systems<br>Build perception pipelines that enable intelligent action<br>Work on challenging real-world problems with measurable impact<br>Interested in working together? Let's connect:<br>📧 oluomaoji@gmail.com | 💼 https://www.linkedin.com/in/oluomaoji/ <br>
+# Hi, I'm Oluoma 👋
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oluomaoji/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@OluomaOji) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oluomaoji@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Oluomaoji&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Oluomaoji&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluomaoji&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Oluomaoji&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Oluomaoji&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Senior Data Scientist · ML Engineer · Data Engineer · Data Analyst · Data Architect**  
+📍 Bournemouth, UK &nbsp;|&nbsp; Open to remote, hybrid & on-site roles
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oluomaoji&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> *Designing, building, and operating production-grade data and ML systems — from pipeline architecture and lakehouse infrastructure to predictive analytics, model serving, and published research.*
+
+---
+
+## 🧠 What I do
+
+I work across the **full data and AI stack** — architecting the systems, engineering the pipelines, training the models, and delivering the insights. 8+ years of experience spanning sports tech, SaaS, and academic research, with a track record of turning complex, multi-modal data into measurable business outcomes.
+
+| Role | Focus |
+|---|---|
+| **Data Architect** | ML platform design · lakehouse architecture · MLOps governance · scaling strategy |
+| **Data Engineer** | ETL/ELT pipelines · real-time ingestion · Feature Stores · cloud infrastructure |
+| **Data Scientist / ML Engineer** | Predictive modelling · deep learning · LLM fine-tuning · model deployment |
+| **Data Analyst** | Customer analytics · churn & retention · EDA · BI dashboards · published research |
+
+---
+
+## 📊 Impact highlights
+
+| Metric | Result |
+|---|---|
+| Movement classification accuracy | **92.3%** across 8 patterns (multi-modal AI) |
+| Real-time serving throughput | **200+ req/s** at sub-100ms latency |
+| Cross-modal features engineered | **22+** temporal & spatial at microsecond precision |
+| Customer retention improvement | **+15%** via predictive analytics |
+| Churn reduction | **-10%** through behavioural segmentation |
+| Product delivery acceleration | **+20%** via data-driven insights |
+
+---
+
+## 🛠️ Tech stack
+
+**ML & AI**  
+`TensorFlow` `PyTorch` `Scikit-learn` `HuggingFace Transformers` `NLTK` `LLM Fine-Tuning (LoRA/QLoRA)` `Neural Collaborative Filtering` `Time Series Forecasting`
+
+**Data Engineering & Pipelines**  
+`Apache Spark (PySpark)` `Apache Airflow` `Apache Kafka` `ETL/ELT` `DVC` `Feature Store (Feast)` `REST APIs` `CI/CD`
+
+**Cloud Platforms**  
+`AWS (S3 · EC2 · Glue · Lambda · SageMaker)` `GCP (BigQuery · Vertex AI · Dataflow)` `Azure ML · Azure Data Factory`
+
+**Infrastructure & MLOps**  
+`Docker` `Kubernetes` `MLflow` `Model Registry` `Experiment Tracking` `Automated Retraining Pipelines`
+
+**Analytics & BI**  
+`SQL` `Pandas` `NumPy` `Power BI` `Tableau` `Matplotlib` `Seaborn`
+
+---
+
+## 📌 Featured projects
+
+### 🏅 Multi-modal Sports Performance AI Platform
+End-to-end system architected, engineered, and deployed for real-time sports analytics — fusing IMU sensor and video streams.  
+`Apache Airflow` · `Feast` · `DVC` · `Docker` · `Kubernetes` · `AWS` · `MLflow`  
+> Architected the full platform: ingestion strategy, 22+ feature pipeline, model serving infrastructure, and autoscaling — achieving 92.3% accuracy at 200+ req/s with sub-100ms latency.
+
+---
+
+### ⚡ Renewable Energy Forecasting System
+Full-stack data platform from large-scale ingestion to production API serving.  
+`PySpark` · `LSTM` · `Prophet` · `AWS (S3 · EC2 · Lambda)` · `Airflow` · `Docker` · `Kubernetes` · `MLflow` · `DVC`  
+> Designed the end-to-end architecture — Spark ingestion layer, versioned data lake, automated retraining pipeline, and Kubernetes-autoscaled REST API serving.
+
+---
+
+### 📈 Customer Retention & Churn Analytics
+Predictive analytics and behavioural segmentation platform delivering measurable commercial impact.  
+`Python` · `Scikit-learn` · `AWS SageMaker` · `Apache Spark` · `Apache Airflow` · `SQL` · `Power BI`  
+> +15% customer retention · -10% churn · +20% product delivery speed — insights translated into strategic action for product and commercial teams.
+
+---
+
+### 🤖 Deep Learning Recommender System *(MSc Dissertation)*
+Neural collaborative filtering engine outperforming traditional matrix factorisation baselines.  
+`TensorFlow` · `Neural Collaborative Filtering` · `DVC` · `MLflow`
+
+---
+
+### 📰 UK Energy Crisis Sentiment Analysis *(Published Research)*
+Co-authored NLP research analysing public discourse on the UK energy crisis — from pipeline to publication.  
+`HuggingFace Transformers` · `NLTK` · `GCP BigQuery` · `Python`  
+> Built the full data platform supporting large-scale text corpus analysis; delivered policy-relevant sentiment insights in a published research contribution.
+
+---
+
+## 🎓 Education
+
+- **MSc Data Science & Artificial Intelligence** — Bournemouth University (2023)
+- **BEng Electronics Engineering** — University of Nigeria (2016)
+
+---
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-oluomaoji-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oluomaoji/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-1F4E79?style=flat&logo=githubpages&logoColor=white)](https://oluomaoji.github.io/OluomaTheVisionExpert.github.io/)
+[![Email](https://img.shields.io/badge/Email-oluomaoji%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oluomaoji@gmail.com)
+
+---
+
+*Open to Senior Data Scientist, ML Engineer, Data Engineer, Data Analyst, and Data Architect roles.*
