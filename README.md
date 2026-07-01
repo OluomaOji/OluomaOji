@@ -1,6 +1,6 @@
 # Hi, I'm Oluoma 👋
 
-**Senior Data Scientist · ML Engineer · Data Engineer · Data Analyst · Data Architect**  
+**Data Scientist · ML Engineer · Data Engineer · Data Analyst · Data Architect**  
 📍 Bournemouth, UK &nbsp;|&nbsp; Open to remote, hybrid & on-site roles
 
 ---
